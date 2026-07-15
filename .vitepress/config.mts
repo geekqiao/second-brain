@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/second-brain/'
   title: "My Second Brain",
   description: "A VitePress Site",
   themeConfig: {
