@@ -1,0 +1,8 @@
+# 依赖包目录（这个最重要，千万别上传）
+node_modules
+
+# VitePress 的构建产物（生成的静态网页文件）
+.vitepress/dist
+
+# VitePress 的开发缓存
+.vitepress/cache
