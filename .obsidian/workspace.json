@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "20-Python/函数与作用域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of 函数与作用域"
             }
           }
         ]
@@ -183,8 +181,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8beb4286ff7c5d05",
+  "active": "8facccfbb801dd32",
   "lastOpenFiles": [
+    "index.md",
     "90-工具与生态/开发者工具箱.md",
     "90-工具与生态/DevOps 概览.md",
     "90-工具与生态/前端框架概览.md",
@@ -211,7 +210,6 @@
     "40-Git/远程协作.md",
     "40-Git/排错与最佳实践.md",
     "40-Git/分支与合并.md",
-    "40-Git/Git MOC.md",
     "90-工具与生态",
     "80-参考资料",
     "50-数据库",
